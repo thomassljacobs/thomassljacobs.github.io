@@ -19,6 +19,7 @@ body {
   justify-content: center; /* vertically centered because flex direction is column */
   height: 100%; /* so it knows what space is available to center in */
   width: auto;
+  object-fit: cover;
 }
 
 #education {
@@ -30,6 +31,7 @@ body {
   height: 100%; /* so it knows what space is available to center in */
   width: auto;
   color: seashell;
+  object-fit: cover;
 }
 
 .bigName h1 {
